@@ -6,7 +6,7 @@ export default function Header() {
       <nav>
         <ul style={{ display: "flex", gap: "1rem", listStyle: "none", margin: 0, padding: 0 }}>
           <li><a href="#home" style={{ color: "#38bdf8" }}>Home</a></li>
-          <li><a href="#courses" style={{ color: "#38bdf8" }}>Cursos</a></li>
+          <li><a href="#courses" style={{ color: "#38bdf8" }}>Cursi</a></li>
         </ul>
       </nav>
     </header>

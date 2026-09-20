@@ -4,7 +4,7 @@ export default function Footer() {
 
   return (
     <footer style={{ padding: "1rem", backgroundColor: "#1e293b", color: "#94a3b8", textAlign: "center" }}>
-      <p>&copy; {currentYear} Boolean Master. Todos los derechos reservados.</p>
+      <p>&copy; {currentYear} Boolean Master. Tutti i diritti riservati.</p>
     </footer>
   );
 }
