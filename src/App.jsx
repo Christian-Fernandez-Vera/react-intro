@@ -1,19 +1,15 @@
+import Footer from "./components/Footer";
+import Header from "./components/Header";
+import Main from "./components/Main";
+
 function App() {
   // rendering in UI
   return <div>
-      <header>
-        30 linee per header
-      </header>
+      <Header />
 
-      <main>
-        <section>
-          code section
-        </section>
-      </main>
+      <Main />
 
-      <footer>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur minima dolores magni ratione doloribus, praesentium nemo labore a ullam aliquam veritatis vero voluptas fuga officiis reprehenderit aliquid delectus nesciunt necessitatibus?
-      </footer>
+      <Footer />
 
 
   </div>
